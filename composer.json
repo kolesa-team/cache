@@ -1,5 +1,5 @@
 {
-    "name": "endeveit/cache",
+    "name": "kolesa-team/cache",
     "version": "1.1.12",
     "type": "library",
     "description": "Simple caching library with support for tags.",
@@ -15,7 +15,7 @@
         "memcache",
         "memcached"
     ],
-    "homepage": "http://github.com/endeveit/cache",
+    "homepage": "https://github.com/kolesa-team/cache",
     "license": "MIT",
     "authors": [
         {
